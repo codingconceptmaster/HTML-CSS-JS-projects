@@ -1,0 +1,13 @@
+#btn1 {
+  background-color: #555555;
+  color: #fff;
+  padding: 15px 32px;
+  font-size: 16px;
+  cursor: pointer;
+  text-align: center;
+}
+
+.btn-center {
+  text-align: center;
+  padding: 40vh 0vh;
+}
